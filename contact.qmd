@@ -1,0 +1,20 @@
+---
+title: "CV & Contact"
+---
+
+## Get in touch
+
+For professional inquiries and research collaboration, please contact me by email.
+
+**Email:** [neofidov@gmail.com](mailto:neofidov@gmail.com)  
+**GitHub:** [Wuweiniko](https://github.com/Wuweiniko)  
+**Location:** Cleveland, Ohio, United States
+
+## Curriculum vitae
+
+My CV includes my education, clinical and research experience, publications, presentations, and awards.
+
+<a class="btn btn-primary" href="assets/Nikolay-Neofidov-CV.pdf" download="Nikolay-Neofidov-CV.pdf">Download CV (PDF)</a>
+
+[Open CV in your browser](assets/Nikolay-Neofidov-CV.pdf)
+

@@ -1,0 +1,51 @@
+---
+title: "Research"
+---
+
+::: {.page-intro}
+Biomarkers of multiple sclerosis progression.
+:::
+
+## Primary research interest
+
+My primary scientific interest is identifying and evaluating biological markers of progression in multiple sclerosis. I am interested in how these markers can help characterize the processes underlying disability accumulation and improve the assessment of disease progression.
+
+## Research experience
+
+### Cognition and clinical assessment
+
+At the Saint Petersburg Centre of Multiple Sclerosis and AID, I contributed to the Russian validation of the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), with responsibilities spanning study design, data collection, and analysis. I also led work on the Russian validation of an electronic Expanded Disability Status Scale for a national digital multiple sclerosis platform.
+
+### Comorbidity and disability
+
+I studied comorbidity in people with multiple sclerosis using validated self-report questionnaires. This work included research and presentations on cardiovascular comorbidity and its relationship to disability.
+
+### Treatment outcomes and clinical trials
+
+My research experience includes real-world evaluation of natalizumab and participation as a co-investigator in phase III clinical trials. I contributed to research on the efficacy and safety of siponimod in the Russian population with secondary progressive multiple sclerosis.
+
+## Selected publications
+
+The following publications are listed in my CV. Full author lists and additional publications are available in the downloadable document.
+
+**Validation of the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS) in the Russian Population.**  
+Makshakov G., et al. (including Neofidov N.). *Journal of the International Neuropsychological Society*, 2021.  
+[PubMed · PMID 34132190](https://pubmed.ncbi.nlm.nih.gov/34132190/)
+
+**Real-world study of efficacy, risk management and reasons for discontinuation of natalizumab for treatment of multiple sclerosis in Russia.**  
+Evdoshenko E., et al. (including Neofidov N.). *PLOS ONE*, 2019.  
+[PubMed · PMID 31136608](https://pubmed.ncbi.nlm.nih.gov/31136608/)
+
+**The efficacy and safety of siponimod in the Russian population of patients with secondary progressive multiple sclerosis.**  
+Evdoshenko E., Neofidov N., et al. *Zhurnal Nevrologii i Psikhiatrii imeni S.S. Korsakova*, 2019.  
+[PubMed · PMID 31934996](https://pubmed.ncbi.nlm.nih.gov/31934996/)
+
+**The study of comorbidity in patients with multiple sclerosis using validated self-report questionnaires.**  
+Neofidov N., et al. *Russian Neurological Journal*, 2019.
+
+## Selected presentations
+
+- **Differential diagnosis of MOG-associated diseases.** Oral presentation, Saint Petersburg, 2021.
+- **Comorbidity in multiple sclerosis.** Oral presentation, Novosibirsk, 2019.
+- **Arterial hypertension in patients with multiple sclerosis as a significant risk factor of disability progression.** Poster presentation, ECTRIMS, Berlin, 2018.
+

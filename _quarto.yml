@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - experience.qmd
+    - research.qmd
+    - contact.qmd
+  resources:
+    - assets/
+    - .nojekyll
+
+website:
+  title: "Nikolay Neofidov, MD"
+  site-url: https://wuweiniko.github.io
+  description: "Nikolay Neofidov — neurologist and neuroimmunology fellow at Cleveland Clinic studying biomarkers of multiple sclerosis progression."
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experience.qmd
+        text: Education & Experience
+      - href: research.qmd
+        text: Research
+      - href: contact.qmd
+        text: CV & Contact
+  page-footer:
+    left: "© 2026 Nikolay Neofidov"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    lang: en
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+

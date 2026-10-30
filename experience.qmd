@@ -1,0 +1,54 @@
+---
+title: "Education & Experience"
+---
+
+::: {.page-intro}
+Clinical training and experience across Russia and the United States, with a sustained focus on multiple sclerosis and neuroimmunology.
+:::
+
+## Education and postgraduate training
+
+### Cleveland Clinic — Mellen Center
+**Neuroimmunology Fellowship · July 2026–present**  
+Cleveland, Ohio, United States
+
+### University of Louisville
+**Neurology Residency · July 2022–June 2026**  
+Louisville, Kentucky, United States
+
+### Pavlov First Saint Petersburg State Medical University
+**Neurology Residency · September 2015–August 2017**  
+Saint Petersburg, Russia
+
+### Rostov State Medical University
+**Doctor of Medicine, magna cum laude · September 2009–August 2015**  
+Rostov-on-Don, Russia
+
+## Selected professional experience
+
+### Attending Neurologist
+**Saint Petersburg Centre of Multiple Sclerosis and AID · October 2017–May 2022**
+
+Provided care for patients with multiple sclerosis and other demyelinating diseases, including differential diagnosis, specialist consultations, and consultations for patients referred from other regions. Taught neurology residents and physicians and organized clinical case discussions for medical students.
+
+### Clinical Research Protocol Writer
+**Medicine Association of MS Centers · October 2020–January 2022**
+
+Developed protocols for post-marketing multiple sclerosis studies and trained research-site staff in protocol requirements.
+
+### Consulting Analyst
+**Agency of Medical Technologies · September 2019–January 2022**
+
+Led a team developing patient education materials about multiple sclerosis and contributed technical descriptions for digital patient and physician platforms.
+
+### Attending Neurologist
+**Pavlov First Saint Petersburg State Medical University · September 2017–February 2018**
+
+Provided inpatient neurological consultations, participated in rounds with residents, and evaluated acute stroke and other urgent neurological conditions.
+
+## Professional membership
+
+American Academy of Neurology
+
+[Download my full CV](assets/Nikolay-Neofidov-CV.pdf){.btn .btn-outline-primary}
+
